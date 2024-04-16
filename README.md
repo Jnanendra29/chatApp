@@ -22,9 +22,9 @@
 - Use "npm i" command in the client directory to install client-side dependencies
 - Use "npm i" command in the server directory to install server-side dependencies
 - Use "npm i" command in the socket directory to install socket-server-side dependencies
-- Use "npm run dev" command to run both client-side
-- Use "nodemon" command to run both server-side
-- Use "nodemon" command to run both socket-server-side
+- Use "npm run dev" command to run client-side
+- Use "nodemon" command to run server-side
+- Use "nodemon" command to run socket-server-side
 - Then You Are ALL SET!!!
 
 ## Improvements to be done
